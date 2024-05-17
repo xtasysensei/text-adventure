@@ -1,4 +1,5 @@
 # Text Adventure Game(WIP)
+This is a simple Text-based adventure game written to practice my python skills
 
 ## Setup Guide
 Copy & Paste the below commands step by step.
